@@ -67,7 +67,8 @@ This project is licensed under the MIT license and Apache 2.0. See the LICENSE f
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Contribution
-Contributions are welcome! Please feel free to submit pull requests.
+Contributions are welcome! Please feel free to Contact Rafiu(Ralph) Lawal for inquiries about making contributions.
+
 
 ## Tests
 To test the application, Click the on-screen buttons to test the client-side functions. To test the server-side functions, use your preferred API development platform, such as Insomnia.
@@ -82,10 +83,3 @@ To test the application, Click the on-screen buttons to test the client-side fun
  
 - GitHub: https://github.com/elele20005
 - Email: ralphconsultant1@gmail.com 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-
-
-
-
-
