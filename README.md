@@ -8,7 +8,7 @@ AS A member of an agile team
 I WANT a Kanban board with a secure login page
 SO THAT I can securely access and manage my work tasks
 
-## Description: React + JavaScript + Vite + JSON Web Tokens
+## Description: JavaScript + JSON Web Tokens
 Krazy Kanban Board is a web-based application designed to help users track production issues across various projects. It allows users to create tickets detailing production issues and manage them by transitioning the tickets through different statuses: "Todo," "In Progress," and "Done." Access to view or modify tickets is restricted to authenticated users.
 
 When a user attempts to log in, the server verifies the provided password by comparing it against the salted and hashed password stored in the database using bcrypt. Upon successful authentication, the server generates a JWT (JSON Web Token) for the user. This token is then used to authorize interactions with the stored issue tickets, ensuring secure access and operations.
@@ -71,6 +71,9 @@ Contributions are welcome! Please feel free to submit pull requests.
 
 ## Tests
 To test the application, run the React + Vite and verify that outputs match expected results based on various inputs and use command: `npm run build` .
+
+![image](https://github.com/user-attachments/assets/f829c628-7348-4f7a-88db-bb92afd82f39)
+
 
 
 ## Additional Requirements
