@@ -39,12 +39,12 @@ To install and run this application locally, please follow these steps:
 
 Clone the repository via SSH:
 
-`git clone git@github.com:elele20005/Candidate-Search.git`
+`git clone git@github.com:elele20005/Kanban_Board.git`
        
    Navigate to the Project Directory
 
 
- command: cd Candidate-Search
+ command: cd Kanban_Board
  
 Install Dependencies    
 run `npm create vite`.     
@@ -75,16 +75,8 @@ To test the application, Click the on-screen buttons to test the client-side fun
 ![Krazy Kanban Board  Test](https://github.com/user-attachments/assets/005b6d9f-8891-4c10-b446-be37eaeae545)
 
 
-
-
-## Additional Requirements
-This Challenge combines many of the skills covered so far. In addition to the user story and acceptance criteria, we've provided some guidelines to help get started. Your application should use Vite for building your Candidate Search. The application will be invoked by using the following command:
-
-command: `npm run build` 
-
-**This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules** 
-
-Render Deployed Link: .....
+## Render Deployed Link:
+.....
 
 ## For more questions, please reach out to:
  
