@@ -46,7 +46,7 @@ Clone the repository via SSH:
 
  command: cd Kanban_Board
 
-Use your preferred package manager, such as "Node Package Manager (NPM)", to install the required dependency packages. Set up a "SQL" database for the Kanban Board software using your chosen database management system, such as "PostgreSQL". Transpile the Kanban Board server and client "TypeScript" code into "JavaScript" using the scripts defined in the "package.json" file. Once the code is transpiled, you can run the "npm run seed" script to populate the "SQL" database with user accounts and project issue tickets
+Use your preferred package manager, such as `Node Package Manager (NPM)`, to install the required dependency packages. Set up a `SQL` database for the Kanban Board software using your chosen database management system, such as `PostgreSQL`. Transpile the Kanban Board server and client `TypeScript` code into `JavaScript` using the scripts defined in the `package.json`file. Once the code is transpiled, you can run the `npm run seed` script to populate the `SQL` database with user accounts and project issue tickets.
  
 
 ## Usage
