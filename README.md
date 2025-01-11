@@ -8,7 +8,7 @@ AS A member of an agile team
 I WANT a Kanban board with a secure login page
 SO THAT I can securely access and manage my work tasks
 
-## Description: React + JavaScript + Vite 
+## Description: React + JavaScript + Vite + JSON Web Tokens
 My job is to complete a candidate search application that calls the GitHub API and renders data in the browser. The application's API, which retrieves data from the GitHub API, has already been created. It's my task to complete the front end using TypeScript, call the application's API, and then deploy the entire application to Render.
                         
                               `The Snippet Is Shown Below`
