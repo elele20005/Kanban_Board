@@ -16,7 +16,7 @@ My Challenge this week is to add authentication with JWT to an existing Kanban b
 
 The Kanban board application has already been created. It's my job to complete the UI for the login page, add authentication with JWT to the server API, and then deploy the entire application to Render.
 
-                              `The Snippet Is Shown Below`
+                                `The Snippet Is Shown Below`
 ![Krazy Kanban Board](https://github.com/user-attachments/assets/4145837c-9982-4fcb-85ea-1404cfa3f086)
 
 
@@ -54,9 +54,7 @@ command: cd `Candidate-Search` and run ` npm install`
 run `npm dev/npm run dev` and navigate to the prompted URL to see your app.
 
 ## Usage
-`Vite` is use to build your Candidate Search, which will include the following:
-To start the application, run:
-command: `npm run dev`    
+Start the Kanban Board server by running the `npm run start` script from the top-level `package.json`. Log in to the Kanban Board and use the on-screen buttons to manage project ticket statuses. Click the link below to access the deployed web app. Please note that the app may take some time to load as it is hosted on a free-tier platform.   
 
 ## Credits
 Starter code provided by edX/BCS. All missing code was written by Rafiu Lawal. The BCS XPert Learning Bot and ChatGPT both provided some assistance. Instructor's and TAs' office hours and class recording vedios was also helpful to help troubleshoot the deployment onto Render.
