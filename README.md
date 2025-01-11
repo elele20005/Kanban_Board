@@ -45,13 +45,9 @@ Clone the repository via SSH:
 
 
  command: cd Kanban_Board
+
+Use your preferred package manager, such as "Node Package Manager (NPM)", to install the required dependency packages. Set up a "SQL" database for the Kanban Board software using your chosen database management system, such as "PostgreSQL". Transpile the Kanban Board server and client "TypeScript" code into "JavaScript" using the scripts defined in the "package.json" file. Once the code is transpiled, you can run the "npm run seed" script to populate the "SQL" database with user accounts and project issue tickets
  
-Install Dependencies    
-run `npm create vite`.     
-second list of options sellect `TyeScript`       
-sellect `React`, `TypeScript`.       
-command: cd `Candidate-Search` and run ` npm install`           
-run `npm dev/npm run dev` and navigate to the prompted URL to see your app.
 
 ## Usage
 Start the Kanban Board server by running the `npm run start` script from the top-level `package.json`. Log in to the Kanban Board and use the on-screen buttons to manage project ticket statuses. Click the link below to access the deployed web app. Please note that the app may take some time to load as it is hosted on a free-tier platform.   
