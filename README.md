@@ -70,9 +70,10 @@ This project is licensed under the MIT license and Apache 2.0. See the LICENSE f
 Contributions are welcome! Please feel free to submit pull requests.
 
 ## Tests
-To test the application, run the React + Vite and verify that outputs match expected results based on various inputs and use command: `npm run build` .
+To test the application, Click the on-screen buttons to test the client-side functions. To test the server-side functions, use your preferred API development platform, such as Insomnia.
 
-![image](https://github.com/user-attachments/assets/f829c628-7348-4f7a-88db-bb92afd82f39)
+![Krazy Kanban Board  Test](https://github.com/user-attachments/assets/005b6d9f-8891-4c10-b446-be37eaeae545)
+
 
 
 
