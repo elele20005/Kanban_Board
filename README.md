@@ -53,31 +53,13 @@ sellect `React`, `TypeScript`.
 command: cd `Candidate-Search` and run ` npm install`           
 run `npm dev/npm run dev` and navigate to the prompted URL to see your app.
 
-**Further customization**   
-
-*Navigate to your `package.json` and modify the scripts object so that it looks like this example*     
-`"scripts": {`      
-` "dev": "vite",`      
-` "start": "vite",`      
-`"build": "vite build",`      
-` "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",`       
-`  "preview": "vite preview"`      
-` },`
-
- *Navigate to the `vite.config.js` file and edit the export object so that it looks like this example*:     
- `export default defineConfig({`        
- `plugins: [react()],`      
- `server: {`       
- `port: 3000,`       
- `open: true`       
- ` }`       
- `})`
-
-
 ## Usage
 `Vite` is use to build your Candidate Search, which will include the following:
 To start the application, run:
-command: `npm run dev`
+command: `npm run dev`    
+
+## Credits
+Starter code provided by edX/BCS. All missing code was written by Rafiu Lawal. The BCS XPert Learning Bot and ChatGPT both provided some assistance. Instructor's and TAs' office hours and class recording vedios was also helpful to help troubleshoot the deployment onto Render.
 
 ## License
 This project is licensed under the MIT license and Apache 2.0. See the LICENSE file for details.
@@ -98,12 +80,12 @@ command: `npm run build`
 
 **This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules** 
 
-Render Deployed Link: https://candidate-search-zcr3.onrender.com/potential-candidates 
+Render Deployed Link: .....
 
 ## For more questions, please reach out to:
  
 - GitHub: https://github.com/elele20005
-- Email: ralphconsultant1@gmail.com
+- Email: ralphconsultant1@gmail.com 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 
