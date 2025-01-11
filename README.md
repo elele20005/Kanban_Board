@@ -9,8 +9,13 @@ I WANT a Kanban board with a secure login page
 SO THAT I can securely access and manage my work tasks
 
 ## Description: React + JavaScript + Vite + JSON Web Tokens
-My job is to complete a candidate search application that calls the GitHub API and renders data in the browser. The application's API, which retrieves data from the GitHub API, has already been created. It's my task to complete the front end using TypeScript, call the application's API, and then deploy the entire application to Render.
-                        
+Krazy Kanban Board is a web-based application designed to help users track production issues across various projects. It allows users to create tickets detailing production issues and manage them by transitioning the tickets through different statuses: "Todo," "In Progress," and "Done." Access to view or modify tickets is restricted to authenticated users.
+
+When a user attempts to log in, the server verifies the provided password by comparing it against the salted and hashed password stored in the database using bcrypt. Upon successful authentication, the server generates a JWT (JSON Web Token) for the user. This token is then used to authorize interactions with the stored issue tickets, ensuring secure access and operations.
+My Challenge this week is to add authentication with JWT to an existing Kanban board application.    
+
+The Kanban board application has already been created. It's my job to complete the UI for the login page, add authentication with JWT to the server API, and then deploy the entire application to Render.
+
                               `The Snippet Is Shown Below`
 ![Krazy Kanban Board](https://github.com/user-attachments/assets/4145837c-9982-4fcb-85ea-1404cfa3f086)
 
