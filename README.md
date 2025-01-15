@@ -71,7 +71,7 @@ To test the application, Click the on-screen buttons to test the client-side fun
 
 
 ## Render Deployed Link: 
-https://kanban-board-1ft9.onrender.com/
+https://kanban_board-1ft9.onrender.com/
 
 ## For more questions, please reach out to:
  
