@@ -70,8 +70,8 @@ To test the application, Click the on-screen buttons to test the client-side fun
 ![Krazy Kanban Board  Test](https://github.com/user-attachments/assets/005b6d9f-8891-4c10-b446-be37eaeae545)
 
 
-## Render Deployed Link:
-.....
+## Render Deployed Link: 
+https://kanban-board-1ft9.onrender.com/
 
 ## For more questions, please reach out to:
  
